@@ -1,6 +1,6 @@
 #Supaplex
 
-![](https://github.com/saglam/supaplex/blob/master/Images/screenshot.png)
+![](https://raw.github.com/saglam/supaplex/master/Images/screenshot.png)
 The beloved [Supaplex](http://en.wikipedia.org/wiki/Supaplex) game for your Mac OS X. See also http://www.elmerproductions.com/sp/ for more information on the original game.
 
 ### Installation
