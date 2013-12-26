@@ -1,4 +1,4 @@
-#![]Supaplex
+#Supaplex
 
 The beloved [Supaplex](http://en.wikipedia.org/wiki/Supaplex) game for your Mac OS X.
 
@@ -16,17 +16,23 @@ The beloved [Supaplex](http://en.wikipedia.org/wiki/Supaplex) game for your Mac 
 
 ### License
 
-DOSBox, our modifications to it and the all other source code and images included in this project are licensed under [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html). 
+DOSBox, our modifications to it, and all other source code and images included in this project are licensed under [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html). 
 
 ### Building
 
-First you need SDL, which DOSBox uses. Grab the latest 1.2.* source from http://www.libsdl.org
+First step is to install and build SDL, which is needed by DOSBox. Grab the latest 1.2.* source from http://www.libsdl.org and extract it to a separate directory.
+
+    cd SDL
+	./configure
+    make
+	make install
+
+Once your SDL 1.2.* installation is complete, build the Supaplex codebase as follows.
 
     git clone git://github.com/saglam/supaplex.git
     cd supaplex
     ./configure
 	make
-
 
 ### Acknowledgements
 
