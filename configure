@@ -1,0 +1,4 @@
+#! /bin/sh
+cd dosbox-0.74-custom
+./configure
+cd ..
