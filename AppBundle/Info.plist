@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Supaplex</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.DigitalIntegration.Supaplex</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Supaplex</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>SUPA</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>CFBundleIconFile</key>
+	<string>Supaplex</string>
+	<key>CGDisableCoalescedUpdates</key>
+	<true/>
+	<key>CFBundleDisplayName</key>
+	<string>Supaplex</string>
+</dict>
+</plist>
