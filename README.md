@@ -1,6 +1,7 @@
 #Supaplex
 
 [![Screenshot](Images/screenshot-small.png?raw=true)](Images/screenshot.png)
+
 The beloved [Supaplex](http://en.wikipedia.org/wiki/Supaplex) game for your Mac OS X. See also http://www.elmerproductions.com/sp/ for more information on the original game.
 
 ### Installation
